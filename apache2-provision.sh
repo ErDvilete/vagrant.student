@@ -23,6 +23,7 @@ a2ensite atenea.olimpo.test.conf
 #
 
 # tu código aquí
+ 
+systemctl restart apache2
 
-systecmtl restart apache2
 
